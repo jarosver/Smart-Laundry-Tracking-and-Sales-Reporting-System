@@ -1,1 +1,2 @@
 # Smart-Laundry-Tracking-and-Sales-Reporting-System
+https://www.figma.com/design/G633SHb85MI3pD9nWBdHz8/Smart-Laundry-Tracking-and-Sales-Reporting-System?node-id=0-1&t=L5AWQD6tggJlsmCA-1
